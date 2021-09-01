@@ -17,7 +17,7 @@ Solving mathematical problems, developing intelligent algorithms, and generating
 - Traveling
 - Skiing
 - Books
-- Podcasts ([Lex Fridman](https://lexfridman.com/podcast/), [WorkLife with Adam Grant](https://www.adamgrant.net/podcast/), [Deep Questions with Cal Newport](https://www.calnewport.com/podcast/)) 
+- Podcasts ([Lex Fridman](https://lexfridman.com/podcast/), [WorkLife with Adam Grant](https://www.adamgrant.net/podcast/), [Deep Questions with Cal Newport](https://www.calnewport.com/podcast/), [Huberman Lab](https://hubermanlab.com/category/podcast-episodes/)) 
 
 
 # Travel / Geography
