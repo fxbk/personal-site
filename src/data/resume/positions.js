@@ -5,7 +5,7 @@ const positions = [
     link: 'https://ferblick.de',
     daterange: 'Dez. 2020 - Aug. 2021',
     points: [
-      'Developing a prototyp and a first MVP',
+      'Developing a prototype and a first MVP',
       'Finding a product market fit',
     ],
   },
