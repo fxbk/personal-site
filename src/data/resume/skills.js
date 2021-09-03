@@ -27,7 +27,7 @@ const skills = [
   {
     title: 'Amazon Web Services',
     competency: 3,
-    category: ['Web Development', 'Tools'],
+    category: ['Web Development', 'Tools', 'Data Science'],
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
@@ -103,6 +103,26 @@ const skills = [
     title: 'Scikit-Learn',
     competency: 5,
     category: ['Data Engineering', 'Data Science', 'Python'],
+  },
+  {
+    title: 'Docker',
+    competency: 5,
+    category: ['Data Engineering', 'Data Science'],
+  },
+  {
+    title: 'Spacy',
+    competency: 4,
+    category: ['Python', 'Data Science'],
+  },
+  {
+    title: 'Deep Learning',
+    competency: 5,
+    category: ['Python', 'Data Science'],
+  },
+  {
+    title: 'Machine Learning',
+    competency: 5,
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'Hadoop',
