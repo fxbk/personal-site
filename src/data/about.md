@@ -5,7 +5,7 @@ Solving mathematical problems, developing intelligent algorithms, and generating
 
 🎓 During my mathematics studies, I acquired the mathematical fundamentals of current technologies. In addition, I focus on building knowledge and skills in machine learning and data analytics.  
 
-🧑‍💻 In addition to my studies, I have completed various own projects and internships in the fields of data science and software development. Currently, as a founder of ferblick., I am developing and marketing an innovative method for the analysis of manual processes using computer vision.   
+🧑‍💻 In addition to my studies, I have completed various own projects and internships in the fields of data science and software development. As a founder of ferblick., I developed and marketed an innovative method for the analysis of manual processes using computer vision.   
 
 🦾 I am particularly passionate about machine learning, especially deep learning and reinforcement learning. There is nothing more exciting for me than watching how these algorithms can solve a wide variety of tasks better and better.
 
