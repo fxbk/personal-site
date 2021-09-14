@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
 
-const markdown = raw('../data/project_details/tum-di-lab.md');
+const markdown = raw('../../data/project_details/tum-di-lab.md');
 
-import Main from '../layouts/Main';
+import Main from '../../layouts/Main';
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
 const LinkRenderer = ({ ...children }) => <Link {...children} />;

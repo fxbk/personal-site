@@ -16,7 +16,7 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 const countries_visited = lazy(() => import('./pages/countries_visited'));
-const tum_di_lab = lazy(() => import('./pages/tum_di_lab'));
+const tum_di_lab = lazy(() => import('./pages/projects/tum_di_lab'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
