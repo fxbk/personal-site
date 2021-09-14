@@ -7,4 +7,5 @@ applying different data science methods scientifically and learn from great Data
 Managers from Data:Lab, from researches from TUM, as well as from each other.
 
 You can find the final report on the website of the TUM Data Innovation Lab, 
-[here](https://www.di-lab.tum.de/vergangene-projekte/ss2021-volkswagen-geometrical-deep-learning-on-3d-models-classification-for-additive-manufacturing/).
+[here](https://www.di-lab.tum.de/vergangene-projekte/ss2021-volkswagen-geometrical-deep-learning-on-3d-models-classification-for-additive-manufacturing/), 
+and the github repository [here](https://github.com/fxbk/Classification-for-Additive-Manufacturing). 
