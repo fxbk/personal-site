@@ -12,7 +12,7 @@ const countries_visited = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">Map of countries I have been</h2>
-          <img src={`${PUBLIC_URL}/images/countries_visited.jpg`} alt="" width="750"/>
+          <img className='image' src={`${PUBLIC_URL}/images/countries_visited.jpg`} alt="" width="750"/>
         </div>
       </header>
     </article>
