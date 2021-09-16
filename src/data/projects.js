@@ -9,6 +9,15 @@ const data = [
       '',
     link: './tum_di_lab'
   },
+  {
+    title: 'OpenAI Gym: Q-Learning',
+    subtitle: 'First steps with Reinforcement Learning with OpenAI Gym',
+    image: '/images/projects/q-learning.jpg',
+    date: '2020-03-31',
+    desc:
+      '',
+    link: './q-learning'
+  },
 ];
 
 export default data;
