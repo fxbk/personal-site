@@ -9,4 +9,4 @@ With the help of Q-Learning, the easiest methods of RL, I was able to solve the
 
 The result of a trained agent on 100k episodes on the taxi environment can be seen below.
 
-![Alt Text](https://github.com/fxbk/personal-site/tree/main/public/images/projects/taxi.gif)
+![Alt Text](https://github.com/fxbk/personal-site/blob/main/public/images/projects/taxi.gif)
