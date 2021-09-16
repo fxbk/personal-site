@@ -10,7 +10,7 @@ const { PUBLIC_URL } = process.env; // set automatically from package.json:homep
 
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const tum_di_lab = () => (
+const q_learning = () => (
   <Main
     description={"Felix Bok's personal"}
   >
@@ -33,4 +33,4 @@ const tum_di_lab = () => (
   </Main>
 );
 
-export default tum_di_lab;
+export default q_learning;
