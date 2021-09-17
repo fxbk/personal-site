@@ -18,6 +18,7 @@ const Stats = lazy(() => import('./pages/Stats'));
 const countries_visited = lazy(() => import('./pages/countries_visited'));
 const tum_di_lab = lazy(() => import('./pages/projects/tum_di_lab'));
 const q_learning = lazy(() => import('./pages/projects/q-learning'));
+const website = lazy(() => import('./pages/projects/website'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -32,6 +33,7 @@ const App = () => (
         <Route path="/countries_visited" component={countries_visited} />
         <Route path="/tum_di_lab" component={tum_di_lab} />
         <Route path="/q-learning" component={q_learning} />
+        <Route path="/website" component={website} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

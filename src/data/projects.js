@@ -1,5 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
+    {
+    title: 'Own website',
+    subtitle: 'Learning React and Web development',
+    image: '/images/projects/website.jpg',
+    date: '2021-09-17',
+    desc:
+      '',
+    link: './website'
+  },
   {
     title: 'Geometrical Deep Learning on 3D Models: Classification for Additive Manufacturing',
     subtitle: 'As part of a TUM-DI-Lab Project, with supervision from the VW DATA:LAB',
