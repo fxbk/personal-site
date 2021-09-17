@@ -33,6 +33,9 @@ const q_learning = () => (
         <a href={"https://gym.openai.com/envs/Taxi-v3/"}> Taxi </a>, as well as the
         <a href={"https://gym.openai.com/envs/FrozenLake-v0/"}> Frozen Lake</a> environment.
       </p>
+      <p>
+        The repo is linked <a href={"https://github.com/fxbk/Q_learning"}>here</a>.
+      </p>
       <figure role="group">
       <figcaption>Examples of a trained agent on the taxi and frozen lake environment can be seen below.</figcaption>
         <figure>
