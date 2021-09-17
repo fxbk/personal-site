@@ -22,14 +22,32 @@ const q_learning = () => (
             <img className="image" src={`${PUBLIC_URL}/images/projects/q-learning.jpg`} alt='robo child'/>
         </div>
       </header>
-      <ReactMarkdown
-        source={markdown}
-        renderers={{
-          Link: LinkRenderer,
-        }}
-        escapeHtml={false}
-      />
+      <p>
+        OpenAI Gym provides different environments and corresponding problems that can be solved using reinforcement
+        learning (RL) techniques. Since I am absolutely fascinated by RL approach, where an agent tries to optimize
+        its reward by random actions and learns which action at which state returns the maximum reward,
+        I started to learn and experiment with RL and OpenAI gym.
+      </p>
+      <p>
+        With the help of Q-Learning, the easiest methods of RL, I was able to solve the
+        <a href={"https://gym.openai.com/envs/Taxi-v3/"}> Taxi </a>, as well as the
+        <a href={"https://gym.openai.com/envs/FrozenLake-v0/"}> Frozen Lake</a> environment.
+      </p>
+      <figure role="group">
+      <figcaption>Examples of a trained agent on the taxi and frozen lake environment can be seen below.</figcaption>
+        <figure>
+          <img className="image" src={`${PUBLIC_URL}/images/projects/taxi.gif`} alt="taxi"/>
+          <figcaption>Taxi example, the goal is to pick up a passenger at Y and drop them of at G</figcaption>
+        </figure>
+        <figure>
+          <img className="image" src={`${PUBLIC_URL}/images/projects/frozen-lake.gif`} alt="fozen-lake" height={"230"}/>
+          <figcaption>Frozen Lake example, the goal is to get from S to G only using the F fields. The H stands for holes
+          where the agent should walk by (most of the time xD).</figcaption>
+        </figure>
+      </figure>
+
     </article>
+
   </Main>
 );
 
