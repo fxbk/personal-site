@@ -19,6 +19,15 @@ const data = [
     link: './tum_di_lab'
   },
   {
+    title: 'OpenAI Gym: Deep Q-Learning',
+    subtitle: 'Trying to solve more advanced problems with deep Q-Learning',
+    image: '/images/projects/deep-q-learning.jpg',
+    date: '2020-04-15',
+    desc:
+      '',
+    link: './deep-q'
+  },
+  {
     title: 'OpenAI Gym: Q-Learning',
     subtitle: 'First steps with Reinforcement Learning with OpenAI Gym',
     image: '/images/projects/q-learning.jpg',

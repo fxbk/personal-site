@@ -19,6 +19,7 @@ const countries_visited = lazy(() => import('./pages/countries_visited'));
 const tum_di_lab = lazy(() => import('./pages/projects/tum_di_lab'));
 const q_learning = lazy(() => import('./pages/projects/q-learning'));
 const website = lazy(() => import('./pages/projects/website'));
+const deep_q = lazy(() => import('./pages/projects/deep-q'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -34,6 +35,7 @@ const App = () => (
         <Route path="/tum_di_lab" component={tum_di_lab} />
         <Route path="/q-learning" component={q_learning} />
         <Route path="/website" component={website} />
+        <Route path="/deep-q" component={deep_q} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
