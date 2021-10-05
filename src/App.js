@@ -20,6 +20,7 @@ const tum_di_lab = lazy(() => import('./pages/projects/tum_di_lab'));
 const q_learning = lazy(() => import('./pages/projects/q-learning'));
 const website = lazy(() => import('./pages/projects/website'));
 const deep_q = lazy(() => import('./pages/projects/deep-q'));
+const lux_challenge = lazy(() => import('./pages/projects/lux_challenge'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>

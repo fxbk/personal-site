@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
     {
+    title: 'Lux AI Kaggle Challenge',
+    subtitle: 'Competing in the Lux AI Kaggle Challenge to apply RL methods',
+    image: '/images/projects/lux-challenge.png',
+    date: '2021-10-05',
+    desc:
+      '',
+    link: './lux_challenge'
+  },
+    {
     title: 'Own website',
     subtitle: 'Learning React and Web development',
     image: '/images/projects/website.jpg',
