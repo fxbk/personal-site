@@ -152,17 +152,17 @@ const skills = [
   {
     title: 'Seaborn',
     competency: 5,
-    category: ['Languages', 'Python', 'Data Science'],
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'Plotly',
     competency: 5,
-    category: ['Languages', 'Python', 'Data Science'],
+    category: ['Python', 'Data Science'],
   },
   {
     title: 'ggplot',
     competency: 5,
-    category: ['Languages', 'Data Science'],
+    category: ['Data Science'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
