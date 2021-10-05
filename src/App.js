@@ -37,6 +37,7 @@ const App = () => (
         <Route path="/q-learning" component={q_learning} />
         <Route path="/website" component={website} />
         <Route path="/deep-q" component={deep_q} />
+        <Route path="/lux_challenge" component={lux_challenge} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
