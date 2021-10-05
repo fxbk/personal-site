@@ -16,7 +16,7 @@ const lux_challenge = () => (
         <div className="title">
           <h2 data-testid="heading">Lux AI Kaggle Challenge</h2>
             <p> Competing in the <a href="https://www.kaggle.com/c/lux-ai-2021" >Lux AI Kaggle Challenge </a> to apply RL methods </p>
-            <img className="image" src={`${PUBLIC_URL}/images/projects/lux-challenge.jpg`} alt='lux challenge banner'/>
+            <img className="image" src={`${PUBLIC_URL}/images/projects/lux-challenge.png`} alt='lux challenge banner'/>
         </div>
       </header>
       <p>
