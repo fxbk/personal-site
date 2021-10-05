@@ -30,7 +30,7 @@ const courses = [
     university: 'TUM',
   },
   {
-    title: 'Introduction: gAlgorithms and data structures',
+    title: 'Introduction: Algorithms and data structures',
     number: 'IN0007',
     link: 'https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=452818',
     university: 'TUM',
