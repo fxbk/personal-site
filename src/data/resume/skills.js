@@ -175,11 +175,6 @@ const skills = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Computer Vision',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
     title: 'Natural Language Processing',
     competency: 3,
     category: ['Data Science', 'Python'],
