@@ -23,7 +23,7 @@ const lux_challenge = () => (
         Together with <a href={"https://www.linkedin.com/in/erik-steiger/"}> Erik Steiger </a>, a good friend and fellow
         student of mine, we are currently working on the Kaggle Challenge "Lux AI 2021". The goal of the challenge is to
         train agents with reinforcement learning methods to enable them to survive in a given environment and doing
-        it better than a opponent. The environment is basically a board game where two players compete about
+        it better than an opponent. The environment is basically a board game where two players compete about
         limited resources, building cities and fight against the upcoming dark night.
       </p>
       <p>
