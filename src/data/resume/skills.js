@@ -178,6 +178,16 @@ const skills = [
     title: 'Computer Vision',
     competency: 3,
     category: ['Data Science', 'Python'],
+  },
+  {
+    title: 'Natural Language Processing',
+    competency: 3,
+    category: ['Data Science', 'Python'],
+  },
+  {
+    title: 'Clustering',
+    competency: 4,
+    category: ['Data Science', 'Python'],
   }
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
