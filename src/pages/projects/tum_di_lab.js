@@ -31,7 +31,7 @@ const tum_di_lab = () => (
           Managers from Data:Lab, from researches from TUM, as well as from each other.
       </p>
       <p> You can find the final report on the website of the TUM Data Innovation Lab
-          <a href="https://www.di-lab.tum.de/vergangene-projekte/ss2021-volkswagen-geometrical-deep-learning-on-3d-models-classification-for-additive-manufacturing/"> here</a>,
+          <a href="https://github.com/fxbk/Classification-for-Additive-Manufacturing/blob/master/doc/final_report/final_report.pdf"> here</a>,
           and the github repository <a href="https://github.com/fxbk/Classification-for-Additive-Manufacturing"> here</a>.
       </p>
     </article>
