@@ -13,7 +13,7 @@ const data = [
     title: 'Own website',
     subtitle: 'Learning React and Web development',
     image: '/images/projects/website.jpg',
-    date: '2021-09-17',
+    date: '2021-08-01',
     desc:
       '',
     link: './website'
@@ -22,7 +22,7 @@ const data = [
     title: 'Geometrical Deep Learning on 3D Models: Classification for Additive Manufacturing',
     subtitle: 'As part of a TUM-DI-Lab Project, with supervision from the VW DATA:LAB',
     image: '/images/projects/project_report_outline.jpg',
-    date: '2021-08-01',
+    date: '2021-08-10',
     desc:
       '',
     link: './tum_di_lab'
