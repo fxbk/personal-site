@@ -4,7 +4,11 @@ const degrees = [
     degree: 'M.S. Mathematics',
     link: 'https://www.tum.de',
     year: 2022,
-    points: [],
+    points: [
+        'Focus: Mathematics in Data Science and Data Science',
+        'Highlights: TUM Data Innovation Lab with VW DATA:LAB',
+        'Selected courses are listed below'
+    ],
   },
   {
     school: 'Technical University of Munich',
