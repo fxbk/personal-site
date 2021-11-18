@@ -26,7 +26,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Tools', 'Data Science'],
   },
   {
@@ -46,7 +46,7 @@ const skills = [
   },
   {
     title: 'Google Cloud Compute',
-    competency: 3,
+    competency: 2,
     category: ['Tools', 'Web Development'],
   },
   {
@@ -62,11 +62,6 @@ const skills = [
   {
     title: 'Tensorflow + Keras',
     competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -111,7 +106,7 @@ const skills = [
   },
   {
     title: 'Spacy',
-    competency: 4,
+    competency: 3,
     category: ['Python', 'Data Science'],
   },
   {
@@ -136,7 +131,7 @@ const skills = [
   },
   {
     title: 'PyTorch / PyTorchlightning',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -161,7 +156,7 @@ const skills = [
   },
   {
     title: 'ggplot',
-    competency: 5,
+    competency: 4,
     category: ['Data Science'],
   },
   {
