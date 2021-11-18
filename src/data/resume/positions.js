@@ -5,8 +5,8 @@ const positions = [
     link: 'https://ferblick.de',
     daterange: 'Dez. 2020 - Aug. 2021',
     points: [
-      'Developing a prototype and a first MVP',
-      'Finding a product market fit',
+      'Responsible for Data Analysis and Machine Learning',
+      'Our vision was to use Computer Vision to make human-driven assembly processes measurable and to provide the data and the software for further analysis and process optimization'
     ],
   },
   {
