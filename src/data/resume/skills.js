@@ -6,7 +6,7 @@ const skills = [
   },
   {
     title: 'Javascript',
-    competency: 2,
+    competency: 1,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -120,16 +120,6 @@ const skills = [
     category: ['Python', 'Data Science'],
   },
   {
-    title: 'Hadoop',
-    competency: 1,
-    category: ['Data Engineering', 'Data Science'],
-  },
-  {
-    title: 'Spark',
-    competency: 1,
-    category: ['Data Engineering', 'Data Science'],
-  },
-  {
     title: 'PyTorch / PyTorchlightning',
     competency: 5,
     category: ['Data Science', 'Python'],
@@ -161,7 +151,7 @@ const skills = [
   },
   {
     title: 'Reinforcement Learning',
-    competency: 4,
+    competency: 3,
     category: ['Data Science', 'Python'],
   },
   {
