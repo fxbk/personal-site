@@ -2,7 +2,7 @@ const positions = [
   {
     company: 'ferblick',
     position: 'Co-Founder',
-    link: 'https://ferblick.de',
+    link: 'https://www.ferblick.com',
     daterange: 'Dez. 2020 - Aug. 2021',
     points: [
       'Responsible for Data Analysis and Machine Learning',
