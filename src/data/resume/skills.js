@@ -106,7 +106,7 @@ const skills = [
   },
   {
     title: 'Spacy',
-    competency: 3,
+    competency: 4,
     category: ['Python', 'Data Science'],
   },
   {
