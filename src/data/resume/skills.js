@@ -55,11 +55,6 @@ const skills = [
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
     title: 'Tensorflow + Keras',
     competency: 3,
     category: ['Data Science', 'Python'],
@@ -151,7 +146,7 @@ const skills = [
   },
   {
     title: 'Reinforcement Learning',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
@@ -161,7 +156,7 @@ const skills = [
   },
   {
     title: 'Natural Language Processing',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
