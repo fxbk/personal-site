@@ -47,6 +47,18 @@ const courses = [
     link: 'https://www-m1.ma.tum.de/bin/view/Lehrstuhl/MUlbrichNonlinearOptAdvWS1819',
     university: 'TUM',
   },
+  {
+    title: 'Foundamentals in Mathematical Statistics',
+    number: 'MA5441',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/wbModHBReport.wbGenHTMLForBeschr?pKnotenNr=1720332&pSemesterNr=192&pLangCode=DE',
+    university: 'TUM',
+  },
+  {
+    title: 'Machine Learning',
+    number: 'IN2064',
+    link: 'https://www.cs.cit.tum.de/daml/lehre/wintersemester-202122/machine-learning/',
+    university: 'TUM',
+  },
 ];
 
 export default courses;
