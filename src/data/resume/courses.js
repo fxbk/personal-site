@@ -48,7 +48,7 @@ const courses = [
     university: 'TUM',
   },
   {
-    title: 'Foundamentals in Mathematical Statistics',
+    title: 'Fundamentals of Mathematical Statistics',
     number: 'MA5441',
     link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/wbModHBReport.wbGenHTMLForBeschr?pKnotenNr=1720332&pSemesterNr=192&pLangCode=DE',
     university: 'TUM',
