@@ -1,4 +1,13 @@
 const positions = [
+   {
+    company: 'VW Machine Learning Research Lab',
+    position: "Master's Thesis Student",
+    link: 'https://argmax.ai',
+    daterange: 'March. 2022 - today',
+    points: [
+      'Writing my Master\'s thesis at VW Machine Learning Research Lab.'
+    ],
+  },
   {
     company: 'ferblick',
     position: 'Co-Founder',
