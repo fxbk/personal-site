@@ -5,7 +5,8 @@ const positions = [
     link: 'https://argmax.ai',
     daterange: 'March. 2022 - today',
     points: [
-      'Writing my Master\'s thesis at VW Machine Learning Research Lab.'
+      'Writing my Master\'s thesis at VW Machine Learning Research Lab.',
+      'Topic: Variational state space models for industrial demand prediction.'
     ],
   },
   {
