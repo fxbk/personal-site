@@ -10,6 +10,16 @@ const skills = [
     category: ['Python'],
   },
   {
+    title: 'Variational Inference',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'Streamlit',
+    competency: 4,
+    category: ['Python'],
+  },
+  {
     title: 'Javascript',
     competency: 1,
     category: ['Web Development', 'Languages'],
